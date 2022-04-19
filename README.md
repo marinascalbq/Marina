@@ -1,26 +1,26 @@
-# Marina Souza 
+# Hello world, I'm Marina 🧚‍♀️!!!
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marinascalbq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-souza-costa-de-albuquerque-584bb6169/) 
 
 <br />
 
-<p><img height="12px" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/br.png"/> Olá, bem-vindo ao meu perfil do GitHub.</p>
+<p><img height="12px" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/br.png"/> Oie, bem-vindo ao meu perfil do GitHub.</p>
 
-<p>meu nome é Marina ♥<br /> 
-Sou estudante de licenciatura em computação na UFRPE.</p>
+<p>Meu nome é Marina Souza ♥<br /> 
+Sou estudante de licenciatura em computação na UFRPE e aqui você pode conhecer meus projetos.</p>
 <br />
 
 <p><img height="12px" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/us.png"/> Hi, welcome to my GitHub profile.</p>
 
 <p>My name is Marina ♥ <br />
-I am a computer student at UFRPE.</p>
+I am a graduate student in computing at UFRPE and here you can find out about my projects.</p>
 <br />
 
 ## My Activities / Minhas atividades
 <br />
 <div>  
-  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=marinascalbq&show_icons=true&theme=Theme-Tomorrow"/>
-  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinascalbq&layout=compact&bg_color=FFFFFF&title_color=C71585&text_color=DB7093&langs_count=8"/>
+  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=marinascalbq&show_icons=true&theme=synthwave"/>
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinascalbq&layout=compact&bg_color=2b213a&title_color=e5289e&text_color=db7b39&langs_count=8"/>
 </div>
 
 <br />
